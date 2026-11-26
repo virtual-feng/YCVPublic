@@ -26,5 +26,5 @@ We may update this Privacy Policy from time to time to reflect app updates or le
 
 ## 6. Contact Us
 If you have any questions about this Privacy Policy or the App's privacy practices, please contact us at:
-- **Email:** fengnan.zhao@yourcourtvision.com
+- **Email:** info@yourcourtvision.com
 - **Website:** https://www.yourcourtvision.com
